@@ -161,7 +161,8 @@ pwa:
 # paginate: 10
 
 # The base URL of your site
-baseurl: ""
+url: "https://xna24.github.io/"
+baseurl: "/ESC515_Portfolio_Chirpy"
 
 # ------------ The following options are not recommended to be modified ------------------
 
