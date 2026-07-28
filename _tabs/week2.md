@@ -10,7 +10,7 @@ order: 2
 
 The following quote is from a short presentation by IBM Engineer Jeff Crume on the official "IBM Technology" YouTube channel:
 
-> We could use AI to do personalized education. Not every student thinks the same way or learns in the same way or responds at the same speed. ... it needs to be explained in different ways. An AI-based tutor would be infinitely patient and would keep trying other alternatives, even when the best teacher might run out of patience ... because they're trying to manage an entire classroom. An AI personalized tutor could work with that student and really figure out what kinds of things work for them and what don't.
+> We could use AI to do personalised education. Not every student thinks the same way or learns in the same way or responds at the same speed. ... it needs to be explained in different ways. An AI-based tutor would be infinitely patient and would keep trying other alternatives, even when the best teacher might run out of patience ... because they're trying to manage an entire classroom. An AI personalised tutor could work with that student and really figure out what kinds of things work for them and what don't.
 
 See screenshot below:
 
