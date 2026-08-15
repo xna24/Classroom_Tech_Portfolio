@@ -16,14 +16,15 @@ timezone: Australia/Sydney
 
 title: Portfolio # the main title
 
-tagline: A portfolio for assignments in the subject ESC515 (Classroom Technologies) # it will display as the subtitle
+tagline: A portfolio for assignments in the subject XXX # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A portfolio documenting my learning and reflections in the subject ESC15 (Classroom Technologies) at Charles Sturt University.
+  A portfolio documenting my learning and reflections in the subject XXXNNN (Classroom Technologies) at Xxxxxxx Xxxxx University.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://xna24.github.io"
+baseurl: "/Classroom_Tech_Portfolio"
 
 github:
   username: xna24 # change to your GitHub username

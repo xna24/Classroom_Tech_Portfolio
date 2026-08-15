@@ -5,7 +5,16 @@ title: Home
 
 # Introduction
 
-Hi, I’m Xuesen Na and I am a pre-service teacher in CSU’s Master of Teaching (Secondary) course. This site hosts my portfolio as a part of assignment requirements the subject ESC515 (Classroom Technologies).
+Hi, I’m <span title="redacted"
+      style="background: #000; color: transparent; padding: 0.05em 0.25em; border-radius: 1px; cursor: help; user-select: none;">
+  Xxxxxx Xx
+</span> and I am a pre-service teacher in <span title="redacted"
+      style="background: #000; color: transparent; padding: 0.05em 0.25em; border-radius: 1px; cursor: help; user-select: none;">
+  XXX
+</span> Master of Teaching (Secondary) course. This site hosts my portfolio as a part of assignment requirements the subject <span title="redacted"
+      style="background: #000; color: transparent; padding: 0.05em 0.25em; border-radius: 1px; cursor: help; user-select: none;">
+  XXXNNN
+</span>.
 
 # My personal approach to technologies in the classroom
 
