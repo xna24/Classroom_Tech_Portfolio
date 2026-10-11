@@ -45,7 +45,7 @@ CAST. (n.d.). *The UDL Guidelines* <a href="https://udlguidelines.cast.org/">htt
 
 <span id="churches-2008"></span>
 
-Churches, A. (2008). *Bloom's Digital Taxonomy*. <a href="http://burtonslifelearning.pbworks.com/w/file/fetch/26327358/BloomDigitalTaxonomy2001.pdf">http://burtonslifelearning.pbworks.com/w/file/fetch/26327358/BloomDigitalTaxonomy2001.pdf</a>
+Churches, A. (2008). *Bloom's Digital Taxonomy*. <a href="https://burtonslifelearning.pbworks.com/w/file/fetch/26327358/BloomDigitalTaxonomy2001.pdf">https://burtonslifelearning.pbworks.com/w/file/fetch/26327358/BloomDigitalTaxonomy2001.pdf</a>
 
 <span id="dron-2022"></span>
 
@@ -105,7 +105,7 @@ OpenAI (n.d.). *ChatGPT: Pricing.* Retrieved Aug 12, 2026, from: [https://chatgp
 
 <span id="puentedura-2013"></span>
 
-Puentedura, R. R. (2013). *SAMR: Getting to transformation*. <a href="http://www.hippasus.com/rrpweblog/archives/2013/04/16/SAMRGettingToTransformation.pdf">http://www.hippasus.com/rrpweblog/archives/2013/04/16/SAMRGettingToTransformation.pdf</a>
+Puentedura, R. R. (2013). *SAMR: Getting to transformation*. <a href="https://www.hippasus.com/rrpweblog/archives/2013/04/16/SAMRGettingToTransformation.pdf">https://www.hippasus.com/rrpweblog/archives/2013/04/16/SAMRGettingToTransformation.pdf</a>
 
 <span id="rappa-et-al-2026"></span>
 

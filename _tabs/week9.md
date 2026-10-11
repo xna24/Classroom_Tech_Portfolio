@@ -242,7 +242,7 @@ Note: Table 3 contains digital tools that targets teachers specifically instead 
     
     <tr>
       <td style="padding: 0.75rem; white-space: normal; overflow-wrap: anywhere; vertical-align: top;">
-      <a href="">nrich for secondary math teachers</a>
+      <a href="https://nrich.maths.org/teachers/secondary">nrich for secondary math teachers</a>
       </td>
       <td style="padding: 0.75rem; white-space: normal; overflow-wrap: anywhere; vertical-align: top;">
       Math, Yr 7 - 12

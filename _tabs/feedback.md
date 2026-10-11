@@ -29,8 +29,8 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
          data-bs-parent="#myAccordion">
       <div class="accordion-body">
         I realised that reading response from the first 4 weeks lacks detailed connection to my own teaching practice and have instead been over-focusing on personal opinions about technology use in the classroom. I have made serious efforts to discuss and reflect on current and future teaching practices in greater detail within the bound of word count and context of the reading response question. The following screenshots demonstrates two such examples:
-        <img src="/assets/img/reflect1.png">
-        <img src="/assets/img/reflect2.png">
+        <img src="/assets/img/reflect1.png" alt="">
+        <img src="/assets/img/reflect2.png" alt="">
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
          aria-labelledby="heading2"
          data-bs-parent="#myAccordion">
       <div class="accordion-body">
-        <img src="/assets/img/reflect3.png">
+        <img src="/assets/img/reflect3.png" alt="">
         An overall reference page is now included as a part of this portfolio <a href="/Classroom_Tech_Portfolio/references">here</a>.
       </div>
     </div>
@@ -62,7 +62,7 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
               data-bs-toggle="collapse"
               data-bs-target="#collapse3"
               aria-expanded="false"
-              aria-controls="collapse3">
+              aria-controls="collapse3" alt="">
         "I would like to see a deeper reflection into pressing issues and justification of how you can apply your reflections to future practice"
       </button>
     </h2>
@@ -72,8 +72,8 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
          data-bs-parent="#myAccordion">
       <div class="accordion-body">
         In contrast to reading responses for first 4 weeks, I dug deeper into pressing issues mentioned in each weeks' readings with the support of further research and discussed how they will inform my future teaching practices in greater details. The following highlighted sentences from Weeks 6 and 10 are two examples:
-        <img src="/assets/img/reflect4.png">
-        <img src="/assets/img/reflect5.png">
+        <img src="/assets/img/reflect4.png" alt="">
+        <img src="/assets/img/reflect5.png" alt="">
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
          data-bs-parent="#myAccordion">
       <div class="accordion-body">
         The following from Week 5's response is an example of subject-specific further research. Hegedus and Tall (2015) argue that the use of interactive mathematical environments supports students' spatial reasoning and deepens students' mathematical understanding and GeoGebra 3D serves as a good example.
-        <img src="/assets/img/reflect6.png">
+        <img src="/assets/img/reflect6.png" alt="">
       </div>
     </div>
   </div>
@@ -115,7 +115,7 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
          data-bs-parent="#myAccordion">
       <div class="accordion-body">
         My reading responses for the first 4 weeks drifts from place to place and often fail to answer the focus question posed to guide the discussion. I have made conscious efforts in the reading responses to Weeks 5 - 12 to focus on answering the question. In the following example (reading response for Week 10), the focus question asks for "what are the issues likely to be when using GenAI this way" (this way means as assistive technology) and highlighted part used one of the weekly readings to directly address potential issues.
-        <img src="/assets/img/reflect7.png">
+        <img src="/assets/img/reflect7.png" alt="">
       </div>
     </div>
   </div>
@@ -138,7 +138,7 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
         <p>The portfolio website is made with GitHub's minimalist and static <a href="https://chirpy.cotes.page/">"chirpy" jekyll theme</a> and the portfolio entries are actually written in <a href="https://www.markdownguide.org/basic-syntax/">Markdown language</a> where embedded HTML code is allowed. I have originally chosen this format to avoid relying on any commercial online platforms where certain advanced features are behind paywalls, and also due to my previous limited exposure to using jekyll and the HTML language. </p>
         
         <p>However, I have greatly underestimated the amount of time required for this learning journey and have only recently discovered how to borrow and embed fancy features from other sites available online and customise style using the <code>style</code> tag inside the <code>.md</code> files themselves instead of messing with the cascading style sheet of the jekyll theme. This progress allowed for the following multimodal visual summary artefact in Week 10.</p>
-        <img src="/assets/img/reflect8.png">
+        <img src="/assets/img/reflect8.png" alt="">
       </div>
     </div>
   </div>
