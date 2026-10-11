@@ -99,7 +99,7 @@ Nelson, L. L. (2021). *Design and deliver: Planning and teaching using Universal
 
 Olson, J., Rouinfar, A., Dubson, M., Loeblein, T., Paul, A., & Perkins, K. (n.d.). *Pendulum Lab*. PhET. <a href="https://phet.colorado.edu/en/simulations/pendulum-lab/credits">https://phet.colorado.edu/en/simulations/pendulum-lab/credits</a>
 
-<span id="open-ai-nd"></span>
+<span id="open-ai-nd"></span> 
 
 OpenAI (n.d.). *ChatGPT: Pricing.* Retrieved Aug 12, 2026, from: [https://chatgpt.com/pricing/](https://chatgpt.com/pricing/)
 

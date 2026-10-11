@@ -129,7 +129,7 @@ The redesign retains all four original questions, their mathematical objectives 
 
 ## 1. Redesigned worksheet
 
-<img src="/assets/img/W12_redesign3_Q5.jpg" width="250">
+<img src="/assets/img/W12_redesign3_Q5.jpg" width="250" alt="">
 
 Q5 — Composite prism
 
@@ -137,7 +137,7 @@ Students calculate the total surface area and give their answer to three signifi
 
 Accessibility changes: clearer diagram labels, a short description of the given dimensions, more working space and a less crowded layout.
 
-<img src="/assets/img/W12_redesign3_Q6.jpg" width="250">
+<img src="/assets/img/W12_redesign3_Q6.jpg" width="250" alt="">
 
 Q6 — Compare two solids
 
@@ -145,7 +145,7 @@ Students calculate both surface areas and determine which solid has the larger s
 
 Accessibility changes: the measurements are also stated in text, and the calculation and comparison are presented as distinct steps.
 
-<img src="/assets/img/W12_redesign3_Q7.jpg" width="250">
+<img src="/assets/img/W12_redesign3_Q7.jpg" width="250" alt="">
 
 Q7 — Solve for \\(x\\)
 
@@ -153,7 +153,7 @@ Students use the surface-area equation \\(392\pi\text{ cm}^2\\) to find \\(x\\).
 
 Accessibility changes: the relationship between the diameter, height and variable is made explicit, with enough room to write algebraic steps.
 
-<img src="/assets/img/W12_redesign3_Q8.jpg" width="250">
+<img src="/assets/img/W12_redesign3_Q8.jpg" width="250" alt="">
 
 Q8 — Equal surface areas
 
@@ -511,7 +511,7 @@ Thanks! Now please redesign the original worksheet particularly for the learning
 - GenAI response (a single generated image, refused to follow explicit instruction)
 
 <div class="genai-portal" markdown="1">
-<img src="/assets/img/W12_redesign4.png">
+<img src="/assets/img/W12_redesign4.png" alt="">
 </div>
 
 ## Comments

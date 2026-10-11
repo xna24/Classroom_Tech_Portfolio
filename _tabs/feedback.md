@@ -125,7 +125,7 @@ This part will discuss how Assessment 3 (including both the portfolio and the re
       <button class="accordion-button collapsed" type="button"
               data-bs-toggle="collapse"
               data-bs-target="#collapse6"
-              aria-expanded="false"
+              aria-expanded="false" 
               aria-controls="collapse6">
         "Consider how you might add functionality or complexity to your ePortfolio by experimenting with Github’s features"
       </button>

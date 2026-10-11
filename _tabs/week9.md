@@ -240,7 +240,7 @@ Note: Table 3 contains digital tools that targets teachers specifically instead 
       </td>
     </tr>
     
-    <tr>
+    <tr> 
       <td style="padding: 0.75rem; white-space: normal; overflow-wrap: anywhere; vertical-align: top;">
       <a href="https://nrich.maths.org/teachers/secondary">nrich for secondary math teachers</a>
       </td>
