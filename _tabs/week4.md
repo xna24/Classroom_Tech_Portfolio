@@ -16,13 +16,13 @@ The questions range from closed-form ones such as tabulating all congruence type
 
 ## Model 1: SAMR
 
-- This model helps me notice that this simple open-source resource have fulfilled <u>augmentation</u> level through enhancing pencil-paper drawing by allowing students to freely construct, modify, and drag to change viewing angle and interact with the 3D model in ways not easily achievable without this digital resource. It may have even reached <u>modification</u> level since it allows for significant redesign of the task compared to tech-free alternative ([Kohnke & Zou (2025)](#kohnke-zou-2025)).
+- This model helps me notice that this simple open-source resource have fulfilled <u>augmentation</u> level through enhancing pencil-paper drawing by allowing students to freely construct, modify, and drag to change viewing angle and interact with the 3D model in ways not easily achievable without this digital resource. It may have even reached <u>modification</u> level since it allows for significant redesign of the task compared to tech-free alternative ([Kohnke & Zou (2025)](/Classroom_Tech_Portfolio/references/#kohnke-zou-2025)).
 - I find that in the lens of SAMR, the pedagogical focus of this learning activity (e.g., encouraging collaboration and perseverance through trial and error) are lost by projecting into a one-dimensional measure of how much the technology reshapes the task.
 
 ## Model 2: TPACK
 
-- As suggested [Marcovitz and Janiszewski (2015)](#marcovitz-janiszewski-2015), TPACK model is suitable in the evaluation phase of a cycle of continuing improvement. In my case, it helped me realise the disproportional demand of TK (technology knowledge) and although I like how this learning activity itself challenged my JavaScript coding abilities, it is perhaps wiser to re-direct my limited TK to more manageable lesson designs in my future teaching career and rely more on existing resources and collaboration with colleagues (to take advantage of their technological content knowledge or technological pedagogical knowledge)
-- What [Marcovitz and Janiszewski (2015)](#marcovitz-janiszewski-2015) have also reminded me is that TPACK is a bit too teacher-focused. It focuses singularly on the demand of teacher knowledge instead on how the learning experience might be for students.
+- As suggested [Marcovitz and Janiszewski (2015)](/Classroom_Tech_Portfolio/references/#marcovitz-janiszewski-2015), TPACK model is suitable in the evaluation phase of a cycle of continuing improvement. In my case, it helped me realise the disproportional demand of TK (technology knowledge) and although I like how this learning activity itself challenged my JavaScript coding abilities, it is perhaps wiser to re-direct my limited TK to more manageable lesson designs in my future teaching career and rely more on existing resources and collaboration with colleagues (to take advantage of their technological content knowledge or technological pedagogical knowledge)
+- What [Marcovitz and Janiszewski (2015)](/Classroom_Tech_Portfolio/references/#marcovitz-janiszewski-2015) have also reminded me is that TPACK is a bit too teacher-focused. It focuses singularly on the demand of teacher knowledge instead on how the learning experience might be for students.
 
 ## What might this look like in a real classroom?
 
@@ -33,7 +33,7 @@ Here are some potential complications of my lesson idea utilising digital techno
 
 ## GenAI task: summary of models, strengths and weaknesses
 
-- GenAI model: [ChatGPT-5.6 Luna (free plan)](#open-ai-nd)
+- GenAI model: [ChatGPT-5.6 Luna (free plan)](/Classroom_Tech_Portfolio/references/#open-ai-nd)
 
 - Prompt used: 
 
@@ -42,21 +42,3 @@ Here are some potential complications of my lesson idea utilising digital techno
 - Summary diagram:
 
 ![ChatGPT-generated summary/comparison of SAMR vs TPACK model](/assets/img/ChatGPT_model_comparison_summary.png){: style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;" }
-
-## References
-
-<span id="kohnke-zou-2025"></span>
-
-- Kohnke, L., & Zou, D. (2025). Artificial intelligence integration in TESOL Teacher education:
-Promoting a critical lens guided by TPACK and SAMR. TESOL Quarterly.
-
-<span id="marcovitz-janiszewski-2015"></span>
-
-- Marcovitz, D., & Janiszewski, N. (2015, March). Technology, models, and 21st-century learning:
-How models, standards, and theories make learning powerful. In Society for information
-technology & teacher education international conference (pp. 1227-1232). Association for the
-Advancement of Computing in Education (AACE).
-
-<span id="open-ai-nd"></span>
-
-- OpenAI (n.d.). ChatGPT: Pricing Retrieved from: [https://chatgpt.com/pricing/](https://chatgpt.com/pricing/)

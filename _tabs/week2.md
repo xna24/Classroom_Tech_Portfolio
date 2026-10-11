@@ -22,22 +22,12 @@ Screenshots a YouTube video by IBM Engineer Jeff Crume titled "AI & Education: G
 
 ## My interpretation
 
-It claims that AI agents can provide a perfectly personalised learning experience and in effect become a surrogate for the classroom teacher. This is essentially claiming that AI is the solution to the Bloom's 2-sigma problem (see p. 162 [Dron (2022)](#dron-2022)) in education.
+It claims that AI agents can provide a perfectly personalised learning experience and in effect become a surrogate for the classroom teacher. This is essentially claiming that AI is the solution to the Bloom's 2-sigma problem ([Dron, 2022, p. 2](/Classroom_Tech_Portfolio/references/#dron-2022)) in education.
 
 ## Relevant point from this week's reading
 
-As Sanders & George [(p. 2920, 2017)](#sanders-george-2017) pointed out, we should remain wary of such speculative presenting any technology as an all-powerful "magic panacea" in education since it tends to flatten complicated social, behavioural and cognitive issues in present classroom teaching as a one-dimensional technical problem simply awaiting more computing power.
+As Sanders & George [(2017, p. 2920)](/Classroom_Tech_Portfolio/references/#sanders-george-2017) pointed out, we should remain wary of such speculative presenting any technology as an all-powerful "magic panacea" in education since it tends to flatten complicated social, behavioural and cognitive issues in present classroom teaching as a one-dimensional technical problem simply awaiting more computing power.
 
 ## "State of the actual"
 
 A constraint in real life is that without good pedagogy and classroom management efforts from the teacher, very few students would take the initiative to "figure out what kinds of things work for them". I have closely observed usage of one such AI tutor product in math classes during my recent professional placement. The AI tutor is deployed to guide students through individual practices and can provide in-depth conversation to explain concepts and mistakes. The vast majority of students simply do not use the feature and those who do engage with it for less than 30 seconds at a time and rarely make an attempt at genuine conceptual understanding.
-
-## References
-
-<span id="dron-2022"></span>
-
-Dron, J. (2022). Educational technology: What it is and how it works. *AI & SOCIETY*, 37(1), 155-166.
-
-<span id="sanders-george-2017"></span>
-
-Sanders, M., & George, A. (2017). Viewing the changing world of educational technology from a different perspective: Present realities, past lessons, and future possibilities. *Education and Information Technologies*, 22(6), 2915-2933.
